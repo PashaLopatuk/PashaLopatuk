@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">Currently exploring **the realms of FullStack Web Development**</h3>
+<h3 align="center">Currently exploring ✨the realms of FullStack Web Development✨</h3>
 
 - 🔭 I’m currently working on [IoTsota](https://iotsota.com)
 
