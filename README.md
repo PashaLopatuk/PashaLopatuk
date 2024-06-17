@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pashalopatuk@gmail.com**
 
-- ⚡ Fun fact **What does a developer do in an unclear situation? He makes a re-render**
+- ⚡ Fun fact **What does a React developer do in an unclear situation? He makes a re-render**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
