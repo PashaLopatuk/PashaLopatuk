@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">Currently exploring ✨the realms of FullStack Web Development✨</h3>
 
-- 🔭 I’m currently working on [IoTsota](https://iotsota.com)
+- 🔭 I’m currently working in [Planeks](https://https://www.planeks.net/)
 
-- 🌱 I’m currently learning **Next, FastApi**
+- 🌱 I’m currently learning **Go, Typescript, Python**
 
 - 💬 Ask me about **react, next, fastapi**
 
