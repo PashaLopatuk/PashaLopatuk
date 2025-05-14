@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">Currently exploring ✨the realms of FullStack Web Development✨</h3>
 
-- 🔭 I’m currently working in [Planeks](https://https://www.planeks.net/)
+- 🔭 I’m currently working in [Planeks](https://https://planeks.net/)
 
 - 🌱 I’m currently learning **Go, Typescript, Python**
 
